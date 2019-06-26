@@ -6,4 +6,4 @@
  
  #### Выполняем pytest c ошибкой, команда: pytest mytest2.py
  
- ![](https://github.com/Kseniaveh/iteratirs_pytest/blob/master/test2.jpg)
+ ![](https://github.com/Kseniaveh/iteratirs_pytest/blob/master/mytest2.jpg)
